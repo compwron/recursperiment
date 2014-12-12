@@ -1,8 +1,12 @@
-== Recurring billing
+Recurring billing
+====
+
 * This is an experiment
 * never put this in prod
 
-== Development
+Development
+====
+
 * ```bundle install``` to install dependencies
 * ```rspec``` to run tests
 * ```rackup``` to run server
