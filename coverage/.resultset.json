@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/lindagoldstein/linda-rep/recursperiment/lib/subscription.rb": [
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        1,
+        4,
+        0,
+        0,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        3,
+        2,
+        14,
+        14,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/lindagoldstein/linda-rep/recursperiment/lib/frequency.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/lindagoldstein/linda-rep/recursperiment/lib/currency.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/lindagoldstein/linda-rep/recursperiment/lib/errors.rb": [
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1418416548
+  }
+}
