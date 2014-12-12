@@ -20,6 +20,7 @@ class Subscription
 
   def bills_on?(date)
   	return false if skips? date
+  	return true if [@start_date, @end_date].include? date
   	(@start_date.to_i..@end_date.to_i).step(@frequency) do |d|
     	puts "evaluating #{Time.at(d)}"
       return true if d === date.to_i

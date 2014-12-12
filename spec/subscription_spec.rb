@@ -48,6 +48,10 @@ describe Subscription do
       end
     end
 
+    it 'validates start date and end date are dates, returns polite error if not' 
+    it 'is ok to make past subscription but there will be no actually_billed_on'
+    it 'updates actually_billed_on unless an error occurs during billing'
+    it ''
     it 'detects skip first and last'
     it 'must have start date and amount'
     it 'frequency defaults to monthly'
