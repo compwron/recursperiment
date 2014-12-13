@@ -4,6 +4,7 @@ gem 'thin'
 gem 'sinatra'
 gem 'moneta'
 gem 'actionview'
+gem 'timecop'
 
 group :development do
   gem 'shotgun'
